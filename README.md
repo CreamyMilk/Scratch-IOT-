@@ -1,0 +1,1 @@
+#Scratch-IOT Objective : Prove that drones can be operated using Scratch. Context Scratch ->is a block-based visual programming language and website targeted primarily at children Web Sockets Network socket -> is an internal endpoint for sending or receiving data within a node on a computer network. Impementation insrpired by Micheal Reeves.
