@@ -1,4 +1,4 @@
-# Scratch-IOT 
+# Scratch-IOT
 
 ### Objective
 Prove that drones can be operated using Scratch. 
