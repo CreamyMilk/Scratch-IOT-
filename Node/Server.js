@@ -141,7 +141,7 @@ io.on('connection', function(socket){
                 rateLimit = 0;
             }
         }
-        //console.log(navdata.demo.batteryPercentage);
+        console.log(navdata.demo.batteryPercentage); //Enable to be able to know the drones battery status
         rateLimit++;
       
      });
